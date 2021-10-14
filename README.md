@@ -2,9 +2,9 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hiyoungshen)
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://hiyoungshen.github.io/)
 
-- 🔭 2018.09-2022.06 in Northwestern Polytechnical University
-- 🌱 I’m interested in Computer Science and Technology and Machine Learning and some other interesting things...
-- 🌱 Maybe i will spend my future time on system or artifical intellgence.
+- 🔭 I’m currently an undergraduate student at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)and I will graduate in 2022. 
+- 🔭 I will join the [School of Information Science and Technology](https://eecs.pku.edu.cn/) of [Peking University](https://www.pku.edu.cn/) in 2022, mayoring in Computer Software and Theory.
+- 🌱 I had fun researching Optimization of software, Machine learning, Distributed machine learning, Federal learning, Virtual reality, Software Engineering, etc.
 - ⚡ C++ / Python.
 - 🖋 Writer at [hiyoungshen](https://hiyoungshen.github.io/)
 - ✍️ My blog [Blogger](https://hiyoungshen.github.io/)
