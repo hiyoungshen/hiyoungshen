@@ -14,6 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +34,7 @@
 
 #### 📜 My recent blog posts
 
-- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (3 weeks ago)
+- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (4 weeks ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (1 month ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (1 month ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (1 month ago)
@@ -44,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
-- [OneSizeFitsQuorum/MIT6.824-2021](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) - 4 labs &#43; 2 challenges &#43; 4 docs (1 day ago)
-- [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/ (4 days ago)
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布 (4 days ago)
-- [Hishengs/bookmark-syncer](https://github.com/Hishengs/bookmark-syncer) - A Chrome Extension for Bookmark Sync (4 days ago)
+- [HuStanding/ml](https://github.com/HuStanding/ml) -  (1 day ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 days ago)
+- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (3 days ago)
+- [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript (3 days ago)
+- [pytorch/tensorpipe](https://github.com/pytorch/tensorpipe) - A tensor-aware point-to-point communication primitive for machine learning (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
