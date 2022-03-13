@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 days ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,12 +29,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (2 weeks ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (2 weeks ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (3 weeks ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (4 weeks ago)
+- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (1 month ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (1 month ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (1 month ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (1 month ago)
@@ -45,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [HuStanding/ml](https://github.com/HuStanding/ml) -  (1 day ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 days ago)
-- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (3 days ago)
-- [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript (3 days ago)
-- [pytorch/tensorpipe](https://github.com/pytorch/tensorpipe) - A tensor-aware point-to-point communication primitive for machine learning (3 days ago)
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (1 week ago)
+- [HuStanding/ml](https://github.com/HuStanding/ml) -  (1 week ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
+- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (1 week ago)
+- [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
