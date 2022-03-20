@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 week ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (3 weeks ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (3 weeks ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (1 month ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -45,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (1 week ago)
-- [HuStanding/ml](https://github.com/HuStanding/ml) -  (1 week ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
-- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (1 week ago)
-- [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript (1 week ago)
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (2 weeks ago)
+- [HuStanding/ml](https://github.com/HuStanding/ml) -  (2 weeks ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 weeks ago)
+- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (2 weeks ago)
+- [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
