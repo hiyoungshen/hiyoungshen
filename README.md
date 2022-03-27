@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (4 days ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,20 +36,20 @@
 
 - [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (1 month ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (1 month ago)
-- [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (1 month ago)
-- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (1 month ago)
-- [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (1 month ago)
+- [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (2 months ago)
+- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (2 months ago)
+- [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (2 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (2 weeks ago)
-- [HuStanding/ml](https://github.com/HuStanding/ml) -  (2 weeks ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 weeks ago)
-- [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class (2 weeks ago)
-- [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript (2 weeks ago)
+- [polossk/LaTeX-Template-For-NPU-Thesis](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis) - 西北工业大学本科毕业设计论文模版 | Thesis Template for Northwestern Polytechnical University (1 week ago)
+- [zyk1999/LaTeX-Template-For-NPU-Thesis-CTex](https://github.com/zyk1999/LaTeX-Template-For-NPU-Thesis-CTex) - 西北工业大学本科毕业设计论文模版ctex版 (1 week ago)
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (3 weeks ago)
+- [HuStanding/ml](https://github.com/HuStanding/ml) -  (3 weeks ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
