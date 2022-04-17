@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 weeks ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -29,8 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (1 month ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (1 month ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (2 months ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -45,18 +45,18 @@
 
 #### ⭐ Recent Stars
 
-- [asaini/Apriori](https://github.com/asaini/Apriori) - Python Implementation of Apriori Algorithm for finding Frequent sets and Association Rules (1 day ago)
-- [polossk/LaTeX-Template-For-NPU-Thesis](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis) - 西北工业大学本科毕业设计论文模版 | Thesis Template for Northwestern Polytechnical University (3 weeks ago)
-- [zyk1999/LaTeX-Template-For-NPU-Thesis-CTex](https://github.com/zyk1999/LaTeX-Template-For-NPU-Thesis-CTex) - 西北工业大学本科毕业设计论文模版ctex版 (3 weeks ago)
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (1 month ago)
-- [HuStanding/ml](https://github.com/HuStanding/ml) -  (1 month ago)
+- [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (2 days ago)
+- [sean529/robFood](https://github.com/sean529/robFood) - 因为上海疫情，用于抢菜~ (5 days ago)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (5 days ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (5 days ago)
+- [asaini/Apriori](https://github.com/asaini/Apriori) - Python Implementation of Apriori Algorithm for finding Frequent sets and Association Rules (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [WuTao-CS](https://github.com/WuTao-CS)
 - [LijunZhang01](https://github.com/LijunZhang01)
 - [zz92118](https://github.com/zz92118)
 - [yinwangsong](https://github.com/yinwangsong)
 - [BakerBunker](https://github.com/BakerBunker)
-- [wangpei72](https://github.com/wangpei72)
 
 
