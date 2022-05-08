@@ -34,7 +34,7 @@
 
 #### 📜 My recent blog posts
 
-- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (2 months ago)
+- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (3 months ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (3 months ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (3 months ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (3 months ago)
@@ -45,18 +45,18 @@
 
 #### ⭐ Recent Stars
 
-- [lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools](https://github.com/lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools) - 美国华人技术创业的快速公司/银行/税务/投资操作白皮书 (1 week ago)
-- [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (2 weeks ago)
-- [sean529/robFood](https://github.com/sean529/robFood) - 因为上海疫情，用于抢菜~ (2 weeks ago)
-- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (2 weeks ago)
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (2 weeks ago)
+- [lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools](https://github.com/lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools) - 美国华人技术创业的快速公司/银行/税务/投资操作白皮书 (2 weeks ago)
+- [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (3 weeks ago)
+- [Sean529/robFood](https://github.com/Sean529/robFood) - 因为上海疫情，用于抢菜~ (3 weeks ago)
+- [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (3 weeks ago)
+- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Gwynplainyg](https://github.com/Gwynplainyg)
 - [WuTao-CS](https://github.com/WuTao-CS)
 - [LijunZhang01](https://github.com/LijunZhang01)
 - [zz92118](https://github.com/zz92118)
 - [yinwangsong](https://github.com/yinwangsong)
-- [BakerBunker](https://github.com/BakerBunker)
 
 
