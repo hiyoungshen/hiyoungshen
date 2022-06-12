@@ -14,6 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (4 days ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
 
 #### 🌱 My latest projects
@@ -26,6 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 4 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -45,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [HYLZ-2019/ReadingMap](https://github.com/HYLZ-2019/ReadingMap) - A chrome side-bar extension to visualize reading progress. (1 week ago)
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~ (2 weeks ago)
-- [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具） (2 weeks ago)
-- [lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools](https://github.com/lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools) - 美国华人技术创业的快速公司/银行/税务/投资操作白皮书 (1 month ago)
-- [JannsenYang/dingdong-helper](https://github.com/JannsenYang/dingdong-helper) - 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 (1 month ago)
+- [latextemplates/IEEE](https://github.com/latextemplates/IEEE) - Quick start for modern LaTeXing for an IEEE conference (1 day ago)
+- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (3 days ago)
+- [HYLZ-2019/ReadingMap](https://github.com/HYLZ-2019/ReadingMap) - A chrome side-bar extension to visualize reading progress. (2 weeks ago)
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~ (3 weeks ago)
+- [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具） (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
