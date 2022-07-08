@@ -4,8 +4,10 @@
 
 - 🎓 I’m currently an undergraduate student at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) and I will graduate in 2022. 
 - 🌱 I had fun researching Web system, Data mining, Distributed system/machine learning, Federal learning, Virtual reality, Software Engineering, etc.
+- ⚡ C++ / Python / Java / Javascript / Scala.
 - 🖋 Blog at [here](https://hiyoungshen.github.io/)
-- 🤔 I'm a Fantast and I like to touch fish in my space time.
+- 🏃 Music / Video watcher / Fantast. 
+- 🤔 I like to touch fish in my space time.
 - 📫 Email: [hiyoungshen@gmail.com](mailto:hiyoungshen@gmail.com)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyoungshen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
@@ -53,10 +55,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [shenhiyoung](https://github.com/shenhiyoung)
 - [npuwth](https://github.com/npuwth)
 - [gilgamsh](https://github.com/gilgamsh)
 - [yourfriendccy](https://github.com/yourfriendccy)
 - [Gwynplainyg](https://github.com/Gwynplainyg)
-- [WuTao-CS](https://github.com/WuTao-CS)
 
 
