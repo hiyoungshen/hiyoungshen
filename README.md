@@ -13,6 +13,7 @@
 - 📫 Email: [hiyoungshen@gmail.com](mailto:hiyoungshen@gmail.com)
 
 ### Others
+- 🖋 My introduction at [here](https://intro.bestshy.top).
 - 🖋 I blog at [here](https://hiyoungshen.github.io/) sometimes.
 - 🤔 I'm a fantast and I like to touch fish in my space time.
 

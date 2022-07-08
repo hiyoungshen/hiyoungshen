@@ -13,7 +13,8 @@
 - 📫 Email: [hiyoungshen@gmail.com](mailto:hiyoungshen@gmail.com)
 
 ### Others
-- 🖋 I blog at [here](https://hiyoungshen.github.io/) sometimes.
+- 🖋 My introduction at [here](https://intro.bestshy.top).
+- 🖋 I blog at [here](https://blog.bestshy.top) sometimes.
 - 🤔 I'm a fantast and I like to touch fish in my space time.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyoungshen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
