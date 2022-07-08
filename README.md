@@ -14,15 +14,15 @@
 
 ### Others
 - 🖋 My introduction at [here](https://intro.bestshy.top).
-- 🖋 I blog at [here](https://hiyoungshen.github.io/) sometimes.
+- 🖋 I blog at [here](https://blog.bestshy.top) sometimes.
 - 🤔 I'm a fantast and I like to touch fish in my space time.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyoungshen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 #### 👷 Check out what I'm currently working on
 
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (today)
 - [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (1 month ago)
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 months ago)
 
 #### 🌱 My latest projects
 
