@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (today)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 days ago)
 - [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (1 month ago)
 
 #### 🌱 My latest projects
@@ -55,17 +55,17 @@
 #### ⭐ Recent Stars
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (3 weeks ago)
-- [latextemplates/IEEE](https://github.com/latextemplates/IEEE) - Quick start for modern LaTeXing for an IEEE conference (3 weeks ago)
-- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (4 weeks ago)
+- [latextemplates/IEEE](https://github.com/latextemplates/IEEE) - Quick start for modern LaTeXing for an IEEE conference (4 weeks ago)
+- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (1 month ago)
 - [HYLZ-2019/ReadingMap](https://github.com/HYLZ-2019/ReadingMap) - A chrome side-bar extension to visualize reading progress. (1 month ago)
 - [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~ (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [yiming-chen-cs](https://github.com/yiming-chen-cs)
+- [jiangshan-zy](https://github.com/jiangshan-zy)
 - [shenhiyoung](https://github.com/shenhiyoung)
 - [npuwth](https://github.com/npuwth)
 - [gilgamsh](https://github.com/gilgamsh)
-- [yourfriendccy](https://github.com/yourfriendccy)
-- [Gwynplainyg](https://github.com/Gwynplainyg)
 
 
