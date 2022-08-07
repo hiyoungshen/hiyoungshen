@@ -21,20 +21,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 weeks ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (1 month ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (2 months ago)
 
 #### 🌱 My latest projects
 
+- [hiyoungshen/SendMailRegularly](https://github.com/hiyoungshen/SendMailRegularly) - SendMailRegularly
 - [hiyoungshen/VRParkour](https://github.com/hiyoungshen/VRParkour) - 
 - [hiyoungshen/ApplicCompreExp](https://github.com/hiyoungshen/ApplicCompreExp) - ApplicationComprehensiveExperiment
 - [hiyoungshen/GeneratingPicFromLatex](https://github.com/hiyoungshen/GeneratingPicFromLatex) - GeneratingPicFromLatex
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction
-- [hiyoungshen/FlawClassify](https://github.com/hiyoungshen/FlawClassify) - 
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 1 month ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 2 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -43,7 +43,7 @@
 
 #### 📜 My recent blog posts
 
-- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (5 months ago)
+- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (6 months ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (6 months ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (6 months ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (6 months ago)
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [RManLuo/CP-GNN](https://github.com/RManLuo/CP-GNN) - Official code implementation for CIKM 21 paper Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph Neural Network Model (5 days ago)
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. (1 month ago)
-- [latextemplates/IEEE](https://github.com/latextemplates/IEEE) - Quick start for modern LaTeXing for an IEEE conference (1 month ago)
-- [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) (1 month ago)
-- [HYLZ-2019/ReadingMap](https://github.com/HYLZ-2019/ReadingMap) - A chrome side-bar extension to visualize reading progress. (2 months ago)
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (2 days ago)
+- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (2 days ago)
+- [npu-cs/SurviveNWPU-CSManual](https://github.com/npu-cs/SurviveNWPU-CSManual) - A Manual on Surviving in CS of NWPU (2 days ago)
+- [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions. (2 days ago)
+- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
