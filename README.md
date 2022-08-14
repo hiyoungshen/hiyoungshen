@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (2 days ago)
-- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (2 days ago)
-- [npu-cs/SurviveNWPU-CSManual](https://github.com/npu-cs/SurviveNWPU-CSManual) - A Manual on Surviving in CS of NWPU (2 days ago)
-- [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions. (2 days ago)
-- [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer (2 days ago)
+- [pingcap/presentations](https://github.com/pingcap/presentations) -  (4 days ago)
+- [FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools. Welcome to contribute to this repository by following the {instruction_for_contribution.pdf} file. (6 days ago)
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (1 week ago)
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (1 week ago)
+- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
