@@ -38,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (5 months ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (5 months ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (6 months ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (6 months ago)
 
 #### 📜 My recent blog posts
 
@@ -54,18 +54,18 @@
 
 #### ⭐ Recent Stars
 
-- [pingcap/presentations](https://github.com/pingcap/presentations) -  (4 days ago)
-- [FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools. Welcome to contribute to this repository by following the {instruction_for_contribution.pdf} file. (6 days ago)
-- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (1 week ago)
-- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (1 week ago)
-- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (1 week ago)
+- [pingcap/presentations](https://github.com/pingcap/presentations) -  (1 week ago)
+- [FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools. Welcome to contribute to this repository by following the {instruction_for_contribution.pdf} file. (1 week ago)
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (2 weeks ago)
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (2 weeks ago)
+- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [seashen8](https://github.com/seashen8)
 - [blackseven-white](https://github.com/blackseven-white)
 - [jun0315](https://github.com/jun0315)
 - [AL-377](https://github.com/AL-377)
 - [yiming-chen-cs](https://github.com/yiming-chen-cs)
-- [jiangshan-zy](https://github.com/jiangshan-zy)
 
 
