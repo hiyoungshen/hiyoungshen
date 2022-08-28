@@ -44,28 +44,28 @@
 #### 📜 My recent blog posts
 
 - [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (6 months ago)
-- [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (6 months ago)
-- [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (6 months ago)
-- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (6 months ago)
-- [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (6 months ago)
+- [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (7 months ago)
+- [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (7 months ago)
+- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (7 months ago)
+- [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (7 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [pingcap/presentations](https://github.com/pingcap/presentations) -  (1 week ago)
-- [FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools. Welcome to contribute to this repository by following the {instruction_for_contribution.pdf} file. (1 week ago)
-- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (2 weeks ago)
-- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (2 weeks ago)
-- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (2 weeks ago)
+- [pingcap/presentations](https://github.com/pingcap/presentations) -  (2 weeks ago)
+- [FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools. Welcome to contribute to this repository by following the {instruction_for_contribution.pdf} file. (2 weeks ago)
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (3 weeks ago)
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (3 weeks ago)
+- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Jse-NGV](https://github.com/Jse-NGV)
 - [seashen8](https://github.com/seashen8)
 - [blackseven-white](https://github.com/blackseven-white)
 - [jun0315](https://github.com/jun0315)
 - [AL-377](https://github.com/AL-377)
-- [yiming-chen-cs](https://github.com/yiming-chen-cs)
 
 
