@@ -21,20 +21,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (2 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (3 months ago)
 
 #### 🌱 My latest projects
 
+- [hiyoungshen/AutoClashOnLinux](https://github.com/hiyoungshen/AutoClashOnLinux) - 
 - [hiyoungshen/SendMailRegularly](https://github.com/hiyoungshen/SendMailRegularly) - SendMailRegularly
 - [hiyoungshen/VRParkour](https://github.com/hiyoungshen/VRParkour) - 
 - [hiyoungshen/ApplicCompreExp](https://github.com/hiyoungshen/ApplicCompreExp) - ApplicationComprehensiveExperiment
 - [hiyoungshen/GeneratingPicFromLatex](https://github.com/hiyoungshen/GeneratingPicFromLatex) - GeneratingPicFromLatex
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 2 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 3 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [pingcap/presentations](https://github.com/pingcap/presentations) -  (3 weeks ago)
-- [FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection) - Deep and conventional community detection related papers, implementations, datasets, and tools. Welcome to contribute to this repository by following the {instruction_for_contribution.pdf} file. (3 weeks ago)
-- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (4 weeks ago)
-- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (1 month ago)
-- [JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022) - CVPR 2022 &#34;Online Convolutional Re-parameterization&#34; (1 month ago)
+- [xmcp/pku-eutopia](https://github.com/xmcp/pku-eutopia) - 兆京大学班车预约 for Humans™ (2 days ago)
+- [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron: (4 days ago)
+- [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash (5 days ago)
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (5 days ago)
+- [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903) (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
