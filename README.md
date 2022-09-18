@@ -38,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (6 months ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (6 months ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (7 months ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (7 months ago)
 
 #### 📜 My recent blog posts
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [xmcp/pku-eutopia](https://github.com/xmcp/pku-eutopia) - 兆京大学班车预约 for Humans™ (2 days ago)
-- [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron: (4 days ago)
-- [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash (5 days ago)
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (5 days ago)
-- [PetarV-/GAT](https://github.com/PetarV-/GAT) - Graph Attention Networks (https://arxiv.org/abs/1710.10903) (6 days ago)
+- [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource. (1 day ago)
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (1 day ago)
+- [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz (5 days ago)
+- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (5 days ago)
+- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
