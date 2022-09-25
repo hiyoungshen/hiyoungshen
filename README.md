@@ -45,20 +45,20 @@
 
 - [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (7 months ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (7 months ago)
-- [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (7 months ago)
-- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (7 months ago)
-- [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (7 months ago)
+- [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (8 months ago)
+- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (8 months ago)
+- [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (8 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource. (1 day ago)
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (1 day ago)
-- [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz (5 days ago)
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (5 days ago)
-- [knative/docs](https://github.com/knative/docs) - User documentation for Knative components. (5 days ago)
+- [oliviaguest/gini](https://github.com/oliviaguest/gini) - Calculate the Gini coefficient of a numpy array. (1 day ago)
+- [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources) - 大数据/数据挖掘/推荐系统/机器学习相关资源 (3 days ago)
+- [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动) (4 days ago)
+- [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource. (1 week ago)
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
