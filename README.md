@@ -44,7 +44,7 @@
 #### 📜 My recent blog posts
 
 - [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (7 months ago)
-- [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (7 months ago)
+- [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (8 months ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (8 months ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (8 months ago)
 - [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (8 months ago)
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [oliviaguest/gini](https://github.com/oliviaguest/gini) - Calculate the Gini coefficient of a numpy array. (1 day ago)
-- [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources) - 大数据/数据挖掘/推荐系统/机器学习相关资源 (3 days ago)
-- [CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools) - 一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动) (4 days ago)
-- [microsoft/AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource. (1 week ago)
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient. (1 week ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 days ago)
+- [maghsk/wjpython-judger](https://github.com/maghsk/wjpython-judger) -  (4 days ago)
+- [petuum/adaptdl](https://github.com/petuum/adaptdl) - Resource-adaptive cluster scheduler for deep learning training. (5 days ago)
+- [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud (5 days ago)
+- [oliviaguest/gini](https://github.com/oliviaguest/gini) - Calculate the Gini coefficient of a numpy array. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
