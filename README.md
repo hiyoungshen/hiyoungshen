@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (3 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 months ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 3 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 4 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -43,7 +43,7 @@
 
 #### 📜 My recent blog posts
 
-- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (7 months ago)
+- [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (8 months ago)
 - [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (8 months ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (8 months ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (8 months ago)
@@ -54,18 +54,18 @@
 
 #### ⭐ Recent Stars
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 days ago)
-- [maghsk/wjpython-judger](https://github.com/maghsk/wjpython-judger) -  (4 days ago)
-- [petuum/adaptdl](https://github.com/petuum/adaptdl) - Resource-adaptive cluster scheduler for deep learning training. (5 days ago)
-- [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud (5 days ago)
-- [oliviaguest/gini](https://github.com/oliviaguest/gini) - Calculate the Gini coefficient of a numpy array. (1 week ago)
+- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment (1 week ago)
+- [petuum/pollux-results](https://github.com/petuum/pollux-results) -  (1 week ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 week ago)
+- [maghsk/wjpython-judger](https://github.com/maghsk/wjpython-judger) -  (1 week ago)
+- [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [daliangxu](https://github.com/daliangxu)
 - [SimonWXW](https://github.com/SimonWXW)
 - [lu-yidan](https://github.com/lu-yidan)
 - [Jse-NGV](https://github.com/Jse-NGV)
 - [seashen8](https://github.com/seashen8)
-- [blackseven-white](https://github.com/blackseven-white)
 
 
