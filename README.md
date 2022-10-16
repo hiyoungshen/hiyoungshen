@@ -38,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (7 months ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (7 months ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (8 months ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (8 months ago)
 
 #### 📜 My recent blog posts
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment (1 week ago)
-- [petuum/pollux-results](https://github.com/petuum/pollux-results) -  (1 week ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 week ago)
-- [maghsk/wjpython-judger](https://github.com/maghsk/wjpython-judger) -  (1 week ago)
-- [Alluxio/alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud (1 week ago)
+- [lwfinger/rtw89](https://github.com/lwfinger/rtw89) - Driver for Realtek 8852AE, an 802.11ax device (2 days ago)
+- [startkkkkkk/Beijing_Daxuexi_Simple](https://github.com/startkkkkkk/Beijing_Daxuexi_Simple) - 北京 青年大学习 使用Github Actions自动完成 (2 days ago)
+- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment (2 weeks ago)
+- [petuum/pollux-results](https://github.com/petuum/pollux-results) -  (2 weeks ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
