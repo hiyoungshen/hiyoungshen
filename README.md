@@ -44,7 +44,7 @@
 #### 📜 My recent blog posts
 
 - [百年孤独](https://hiyoungshen.github.io/2022/02/05/bai-nian-gu-du/) (8 months ago)
-- [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (8 months ago)
+- [cfw](https://hiyoungshen.github.io/2022/01/30/cfw/) (9 months ago)
 - [关于论文写作](https://hiyoungshen.github.io/2022/01/25/guan-yu-lun-wen-xie-zuo/) (9 months ago)
 - [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/01/25/emrnotebookcannotwritefilethroughs3/) (9 months ago)
 - [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/01/25/awsemrfilesystem/) (9 months ago)
@@ -54,18 +54,18 @@
 
 #### ⭐ Recent Stars
 
-- [NiuChaoyue/Secure-Federated-Submodel-Learning](https://github.com/NiuChaoyue/Secure-Federated-Submodel-Learning) -  (3 days ago)
-- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. (1 week ago)
-- [lwfinger/rtw89](https://github.com/lwfinger/rtw89) - Driver for Realtek 8852AE, an 802.11ax device (1 week ago)
-- [startkkkkkk/Beijing_Daxuexi_Simple](https://github.com/startkkkkkk/Beijing_Daxuexi_Simple) - 北京 青年大学习 使用Github Actions自动完成 (1 week ago)
-- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment (3 weeks ago)
+- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (1 day ago)
+- [SymbioticLab/FedScale](https://github.com/SymbioticLab/FedScale) - FedScale is a scalable and extensible open-source federated learning (FL) platform. (1 day ago)
+- [Zce1112zslx/ChID_baseline](https://github.com/Zce1112zslx/ChID_baseline) - 计算语言学22-23学年秋季学期 课程大作业baseline实现 (3 days ago)
+- [Icalingua-plus-plus/Icalingua3](https://github.com/Icalingua-plus-plus/Icalingua3) - :new:A brand new version of Icalingua. (3 days ago)
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [toum120](https://github.com/toum120)
 - [daliangxu](https://github.com/daliangxu)
 - [SimonWXW](https://github.com/SimonWXW)
 - [lu-yidan](https://github.com/lu-yidan)
 - [Jse-NGV](https://github.com/Jse-NGV)
-- [seashen8](https://github.com/seashen8)
 
 
