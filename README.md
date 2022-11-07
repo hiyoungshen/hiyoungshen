@@ -43,18 +43,18 @@
 
 #### 📜 My recent blog posts
 
-- [](https://hiyoungshen.github.io/2022/10/30/gai-lu-lun-yu-shu-li-tong-ji/) (1 week ago)
-- [](https://hiyoungshen.github.io/2022/10/29/fedscale-benchmarking-model-and-system-performance-of-federated-learning-at-scale/) (1 week ago)
-- [](https://hiyoungshen.github.io/2022/10/28/towards-federated-learning-at-scale-system-design/) (1 week ago)
 - [SparkSession](https://hiyoungshen.github.io/2022/10/28/sparksession/) (1 week ago)
 - [AWSEMRFilesystem](https://hiyoungshen.github.io/2022/10/28/web-pa-chong-de-yi-chang-chu-li/) (1 week ago)
+- [aws emr notebook attached successfully but still &#34;Workspace is not attached to cluster. Click Ok to continue.&#34;](https://hiyoungshen.github.io/2022/10/28/aws-emr-notebook-attached-successfully-but-still-workspace-is-not-attached-to-cluster-click-ok-to-continue/) (1 week ago)
+- [nohup失效时](https://hiyoungshen.github.io/2022/10/28/nohup-shi-xiao-shi/) (1 week ago)
+- [EMRNotebookCannotWriteFileThroughS3](https://hiyoungshen.github.io/2022/10/28/emrnotebookcannotwritefilethroughs3/) (1 week ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [sieve-project/sieve](https://github.com/sieve-project/sieve) - Automatic Reliability Testing for Kubernetes Controllers (2 days ago)
+- [sieve-project/sieve](https://github.com/sieve-project/sieve) - Automatic Reliability Testing for Kubernetes Controllers (3 days ago)
 - [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features. (1 week ago)
 - [SymbioticLab/FedScale](https://github.com/SymbioticLab/FedScale) - FedScale is a scalable and extensible open-source federated learning (FL) platform. (1 week ago)
 - [Zce1112zslx/ChID_baseline](https://github.com/Zce1112zslx/ChID_baseline) - 计算语言学22-23学年秋季学期 课程大作业baseline实现 (1 week ago)
