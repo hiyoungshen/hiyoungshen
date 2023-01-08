@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 weeks ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (6 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 weeks ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 6 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v2.1.2](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v2.1.2), 7 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -43,29 +43,29 @@
 
 #### 📜 My recent blog posts
 
-- [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (1 week ago)
-- [MobiCom21-Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile](https://hiyoungshen.github.io/2022/12/23/mobicom21-hermes-an-efficient-federated-learning-framework-for-heterogeneous-mobile-clients/) (1 week ago)
-- [IMC17-Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service](https://hiyoungshen.github.io/2022/12/21/imc17-complexity-vs-performance-empirical-analysis-of-machine-learning-as-a-service/) (1 week ago)
-- [OSDI22-Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://hiyoungshen.github.io/2022/12/20/osdi22-walle-an-end-to-end-general-purpose-and-large-scale-production-system-for-device-cloud-collaborative-machine-learning/) (1 week ago)
-- [arXiv21-FEDLAB: A FLEXIBLE FEDERATED LEARNING FRAMEWORK](https://hiyoungshen.github.io/2022/12/18/arxiv21-fedlab-a-flexible-federated-learning-framework/) (2 weeks ago)
+- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (2 weeks ago)
+- [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (2 weeks ago)
+- [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (2 weeks ago)
+- [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (2 weeks ago)
+- [MobiCom21-Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile](https://hiyoungshen.github.io/2022/12/23/mobicom21-hermes-an-efficient-federated-learning-framework-for-heterogeneous-mobile-clients/) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (2 days ago)
-- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (2 days ago)
-- [lonePatient/albert_pytorch](https://github.com/lonePatient/albert_pytorch) - A Lite Bert For Self-Supervised Learning Language Representations (4 days ago)
-- [HobbitLong/PyContrast](https://github.com/HobbitLong/PyContrast) - PyTorch implementation of Contrastive Learning methods (4 days ago)
-- [HobbitLong/SupContrast](https://github.com/HobbitLong/SupContrast) - PyTorch implementation of &#34;Supervised Contrastive Learning&#34;  (and SimCLR incidentally) (4 days ago)
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge. (3 days ago)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。 (3 days ago)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (4 days ago)
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 week ago)
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [guanshuao](https://github.com/guanshuao)
 - [Sprinter1999](https://github.com/Sprinter1999)
 - [dem123456789](https://github.com/dem123456789)
 - [ZiruiOu](https://github.com/ZiruiOu)
 - [poprunner88](https://github.com/poprunner88)
-- [Fwatermelon](https://github.com/Fwatermelon)
 
 
