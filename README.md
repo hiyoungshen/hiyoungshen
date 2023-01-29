@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.0.8](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.0.8), 4 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.1.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.1.0), 6 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -43,10 +43,10 @@
 
 #### 📜 My recent blog posts
 
-- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (4 weeks ago)
-- [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (4 weeks ago)
-- [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (4 weeks ago)
-- [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (4 weeks ago)
+- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (1 month ago)
+- [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (1 month ago)
+- [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (1 month ago)
+- [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (1 month ago)
 - [MobiCom21-Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile](https://hiyoungshen.github.io/2022/12/23/mobicom21-hermes-an-efficient-federated-learning-framework-for-heterogeneous-mobile-clients/) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models. (1 day ago)
-- [slaysd/pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) - A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM&#43;Attention, CNN) (1 week ago)
-- [tim5go/awesome-one-class-classification](https://github.com/tim5go/awesome-one-class-classification) - A curated list of awesome resources dedicated to One Class Classification. (1 week ago)
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge. (2 weeks ago)
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。 (2 weeks ago)
+- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models. (1 week ago)
+- [slaysd/pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) - A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM&#43;Attention, CNN) (2 weeks ago)
+- [tim5go/awesome-one-class-classification](https://github.com/tim5go/awesome-one-class-classification) - A curated list of awesome resources dedicated to One Class Classification. (2 weeks ago)
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge. (3 weeks ago)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
