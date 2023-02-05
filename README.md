@@ -22,7 +22,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (7 months ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.1.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.1.0), 6 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.1.1](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.1.1), 3 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models. (1 week ago)
-- [slaysd/pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) - A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM&#43;Attention, CNN) (2 weeks ago)
-- [tim5go/awesome-one-class-classification](https://github.com/tim5go/awesome-one-class-classification) - A curated list of awesome resources dedicated to One Class Classification. (2 weeks ago)
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge. (3 weeks ago)
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。 (3 weeks ago)
+- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C&#43;&#43; library. (3 days ago)
+- [maxjcohen/transformer](https://github.com/maxjcohen/transformer) - Implementation of Transformer model (originally from Attention is All You Need) applied to Time Series. (3 days ago)
+- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models. (2 weeks ago)
+- [slaysd/pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) - A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM&#43;Attention, CNN) (3 weeks ago)
+- [tim5go/awesome-one-class-classification](https://github.com/tim5go/awesome-one-class-classification) - A curated list of awesome resources dedicated to One Class Classification. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
