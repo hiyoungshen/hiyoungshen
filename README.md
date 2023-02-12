@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
 - [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (8 months ago)
 
 #### 🌱 My latest projects
@@ -34,12 +34,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.1.1](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.1.1), 3 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.1.1](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.1.1), 1 week ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
-- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (11 months ago)
-- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (11 months ago)
+- [update version 1.0.1, download chromedriver automatically](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/2) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (1 year ago)
+- [update version 1.0.1, download chromedriver match your chrome automat…](https://github.com/PHOSPHENES8/NWPU-CovReport/pull/1) on [PHOSPHENES8/NWPU-CovReport](https://github.com/PHOSPHENES8/NWPU-CovReport) (1 year ago)
 
 #### 📜 My recent blog posts
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C&#43;&#43; library. (3 days ago)
-- [maxjcohen/transformer](https://github.com/maxjcohen/transformer) - Implementation of Transformer model (originally from Attention is All You Need) applied to Time Series. (3 days ago)
-- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models. (2 weeks ago)
-- [slaysd/pytorch-sentiment-analysis-classification](https://github.com/slaysd/pytorch-sentiment-analysis-classification) - A PyTorch Tutorials of Sentiment Analysis Classification  (RNN, LSTM, Bi-LSTM, LSTM&#43;Attention, CNN) (3 weeks ago)
-- [tim5go/awesome-one-class-classification](https://github.com/tim5go/awesome-one-class-classification) - A curated list of awesome resources dedicated to One Class Classification. (3 weeks ago)
+- [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels (1 day ago)
+- [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System (4 days ago)
+- [Minqi824/ADBench](https://github.com/Minqi824/ADBench) - Official Implement of &#34;ADBench: Anomaly Detection Benchmark&#34;. (4 days ago)
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI&#39;s updated text-to-image synthesis neural network,  in Pytorch (5 days ago)
+- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C&#43;&#43; library. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
