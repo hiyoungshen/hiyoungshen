@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.1.1](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.1.1), 1 week ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 2 days ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) - A curated list of resources for Learning with Noisy Labels (1 day ago)
-- [datamllab/tods](https://github.com/datamllab/tods) - TODS: An Automated Time-series Outlier Detection System (4 days ago)
-- [Minqi824/ADBench](https://github.com/Minqi824/ADBench) - Official Implement of &#34;ADBench: Anomaly Detection Benchmark&#34;. (4 days ago)
-- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI&#39;s updated text-to-image synthesis neural network,  in Pytorch (5 days ago)
-- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python (2.x and 3.x) based on marisa-trie C&#43;&#43; library. (1 week ago)
+- [KunYinL/LogC](https://github.com/KunYinL/LogC) - ICSME2020 - Improving Log-Based Anomaly Detection with Component-Aware Analysis (1 day ago)
+- [tigerFF/Log2vec](https://github.com/tigerFF/Log2vec) - Log2vec: A Heterogeneous Graph Embedding Based Approach for Detecting Cyber Threats within Enterprise (1 day ago)
+- [WeibinMeng/log-anomaly-detection](https://github.com/WeibinMeng/log-anomaly-detection) - Paper list of log-based anomaly detection (1 day ago)
+- [logpai/deep-loglizer](https://github.com/logpai/deep-loglizer) - A deep learning toolkit for automated anomaly detection (1 day ago)
+- [moonliii/AirExperimentOutput](https://github.com/moonliii/AirExperimentOutput) -  (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
