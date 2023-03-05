@@ -22,7 +22,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (8 months ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 1 week ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 2 weeks ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,18 +54,18 @@
 
 #### ⭐ Recent Stars
 
-- [moonliii/AirExperimentOutput](https://github.com/moonliii/AirExperimentOutput) -  (4 days ago)
-- [moonliii/IVRMining](https://github.com/moonliii/IVRMining) -  (5 days ago)
-- [NetManAIOps/Log2Vec](https://github.com/NetManAIOps/Log2Vec) - A distributed representation method for online logs. (6 days ago)
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models (6 days ago)
-- [KunYinL/LogC](https://github.com/KunYinL/LogC) - ICSME2020 - Improving Log-Based Anomaly Detection with Component-Aware Analysis (1 week ago)
+- [Chrysostomus/manjaro-zsh-config](https://github.com/Chrysostomus/manjaro-zsh-config) - Zsh configuration package for manjaro (2 days ago)
+- [shauryr/S2QA](https://github.com/shauryr/S2QA) - Get answers to research questions from 200M&#43; papers (3 days ago)
+- [donglee-afar/logdeep](https://github.com/donglee-afar/logdeep) - log anomaly detection toolkit including DeepLog (4 days ago)
+- [moonliii/AirExperimentOutput](https://github.com/moonliii/AirExperimentOutput) -  (1 week ago)
+- [moonliii/IVRMining](https://github.com/moonliii/IVRMining) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [mmertpolat](https://github.com/mmertpolat)
 - [lijinnan123](https://github.com/lijinnan123)
 - [SMSQO](https://github.com/SMSQO)
 - [guanshuao](https://github.com/guanshuao)
 - [Sprinter1999](https://github.com/Sprinter1999)
-- [dem123456789](https://github.com/dem123456789)
 
 
