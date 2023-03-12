@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 2 weeks ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 3 weeks ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [Chrysostomus/manjaro-zsh-config](https://github.com/Chrysostomus/manjaro-zsh-config) - Zsh configuration package for manjaro (2 days ago)
-- [shauryr/S2QA](https://github.com/shauryr/S2QA) - Get answers to research questions from 200M&#43; papers (3 days ago)
-- [donglee-afar/logdeep](https://github.com/donglee-afar/logdeep) - log anomaly detection toolkit including DeepLog (4 days ago)
-- [moonliii/AirExperimentOutput](https://github.com/moonliii/AirExperimentOutput) -  (1 week ago)
-- [moonliii/IVRMining](https://github.com/moonliii/IVRMining) -  (1 week ago)
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt (1 day ago)
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. (1 day ago)
+- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo (1 day ago)
+- [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location (2 days ago)
+- [Chrysostomus/manjaro-zsh-config](https://github.com/Chrysostomus/manjaro-zsh-config) - Zsh configuration package for manjaro (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
