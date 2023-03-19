@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 months ago)
 - [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (9 months ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 3 weeks ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 1 month ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,18 +54,18 @@
 
 #### ⭐ Recent Stars
 
-- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt (1 day ago)
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations. (1 day ago)
-- [l0o0/translators_CN](https://github.com/l0o0/translators_CN) - Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo (1 day ago)
-- [Lerist/FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location (2 days ago)
-- [Chrysostomus/manjaro-zsh-config](https://github.com/Chrysostomus/manjaro-zsh-config) - Zsh configuration package for manjaro (1 week ago)
+- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. (3 days ago)
+- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for &#34;StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery&#34; (ICCV 2021 Oral) (4 days ago)
+- [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE) - The Noise Contrastive Estimation for softmax output written in Pytorch (5 days ago)
+- [zhirongw/lemniscate.pytorch](https://github.com/zhirongw/lemniscate.pytorch) - Unsupervised Feature Learning via Non-parametric Instance Discrimination (6 days ago)
+- [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [Z-kamili](https://github.com/Z-kamili)
+- [golden821man](https://github.com/golden821man)
 - [mmertpolat](https://github.com/mmertpolat)
 - [lijinnan123](https://github.com/lijinnan123)
 - [SMSQO](https://github.com/SMSQO)
-- [guanshuao](https://github.com/guanshuao)
-- [Sprinter1999](https://github.com/Sprinter1999)
 
 
