@@ -43,29 +43,29 @@
 
 #### 📜 My recent blog posts
 
-- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (2 months ago)
-- [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (2 months ago)
-- [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (2 months ago)
-- [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (2 months ago)
-- [MobiCom21-Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile](https://hiyoungshen.github.io/2022/12/23/mobicom21-hermes-an-efficient-federated-learning-framework-for-heterogeneous-mobile-clients/) (2 months ago)
+- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (3 months ago)
+- [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (3 months ago)
+- [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (3 months ago)
+- [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (3 months ago)
+- [MobiCom21-Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile](https://hiyoungshen.github.io/2022/12/23/mobicom21-hermes-an-efficient-federated-learning-framework-for-heterogeneous-mobile-clients/) (3 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. (3 days ago)
-- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for &#34;StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery&#34; (ICCV 2021 Oral) (4 days ago)
-- [Stonesjtu/Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE) - The Noise Contrastive Estimation for softmax output written in Pytorch (5 days ago)
-- [zhirongw/lemniscate.pytorch](https://github.com/zhirongw/lemniscate.pytorch) - Unsupervised Feature Learning via Non-parametric Instance Discrimination (6 days ago)
-- [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (1 week ago)
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (2 days ago)
+- [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) - 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐ (2 days ago)
+- [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - A Zotero plugin for creating a personal Zotero Style. (2 days ago)
+- [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (2 days ago)
+- [qnscholar/zotero-chatgpt](https://github.com/qnscholar/zotero-chatgpt) - 引入 ChatGPT 后的 Zotero，会带来哪些生产力提升呢？ (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
 - [Z-kamili](https://github.com/Z-kamili)
-- [golden821man](https://github.com/golden821man)
 - [mmertpolat](https://github.com/mmertpolat)
 - [lijinnan123](https://github.com/lijinnan123)
 - [SMSQO](https://github.com/SMSQO)
+- [guanshuao](https://github.com/guanshuao)
 
 
