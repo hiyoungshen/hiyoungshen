@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝 (2 days ago)
-- [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) - 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐ (2 days ago)
-- [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - A Zotero plugin for creating a personal Zotero Style. (2 days ago)
-- [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty (2 days ago)
-- [qnscholar/zotero-chatgpt](https://github.com/qnscholar/zotero-chatgpt) - 引入 ChatGPT 后的 Zotero，会带来哪些生产力提升呢？ (2 days ago)
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal. (2 days ago)
+- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架 (3 days ago)
+- [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard (5 days ago)
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (5 days ago)
+- [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库 (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
