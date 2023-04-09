@@ -22,7 +22,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 months ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (9 months ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal. (2 days ago)
-- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架 (3 days ago)
-- [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard (5 days ago)
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (5 days ago)
-- [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库 (6 days ago)
+- [zhuangdizhu/FedGen](https://github.com/zhuangdizhu/FedGen) - Code and data accompanying the FedGen paper (1 day ago)
+- [PKU-Chengxu/FLASH](https://github.com/PKU-Chengxu/FLASH) -  (2 days ago)
+- [jaemin-shin/flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed) - Testbed experiment implementation for FedBalancer (Jaemin Shin et al., ACM MobiSys&#39;22) based on &#34;Flower - A Friendly Federated Learning Framework&#34; (2 days ago)
+- [jaemin-shin/FedBalancer](https://github.com/jaemin-shin/FedBalancer) -  (2 days ago)
+- [Magisk-Modules-Repo/riru_lsposed](https://github.com/Magisk-Modules-Repo/riru_lsposed) -  (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
