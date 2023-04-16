@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (4 months ago)
 - [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (10 months ago)
 
 #### 🌱 My latest projects
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [zhuangdizhu/FedGen](https://github.com/zhuangdizhu/FedGen) - Code and data accompanying the FedGen paper (1 day ago)
-- [PKU-Chengxu/FLASH](https://github.com/PKU-Chengxu/FLASH) -  (2 days ago)
-- [jaemin-shin/flower-FedBalancer-testbed](https://github.com/jaemin-shin/flower-FedBalancer-testbed) - Testbed experiment implementation for FedBalancer (Jaemin Shin et al., ACM MobiSys&#39;22) based on &#34;Flower - A Friendly Federated Learning Framework&#34; (2 days ago)
-- [jaemin-shin/FedBalancer](https://github.com/jaemin-shin/FedBalancer) -  (2 days ago)
-- [Magisk-Modules-Repo/riru_lsposed](https://github.com/Magisk-Modules-Repo/riru_lsposed) -  (3 days ago)
+- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.  (1 day ago)
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 day ago)
+- [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition. (1 day ago)
+- [anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless) - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications. (1 day ago)
+- [hoya012/awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
