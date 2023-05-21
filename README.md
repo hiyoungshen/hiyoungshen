@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 weeks ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
 - [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (11 months ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 2 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 3 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. (3 days ago)
-- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion &#43; DreamBooth (3 days ago)
-- [scenediffuser/Scene-Diffuser](https://github.com/scenediffuser/Scene-Diffuser) - Official implementation of CVPR23 paper &#34;Diffusion-based Generation, Optimization, and Planning in 3D Scenes&#34; (4 days ago)
-- [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch (4 days ago)
-- [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch (4 days ago)
+- [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (1 day ago)
+- [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) -  (2 days ago)
+- [yuzu-emu/yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) -  (4 days ago)
+- [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.  (1 week ago)
+- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
