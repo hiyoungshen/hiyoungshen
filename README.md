@@ -22,7 +22,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (11 months ago)
+- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -54,15 +54,15 @@
 
 #### ⭐ Recent Stars
 
-- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision (2 days ago)
-- [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models. (2 days ago)
-- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser (2 days ago)
-- [civitai/sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI (1 week ago)
-- [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) -  (1 week ago)
+- [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem. (1 day ago)
+- [bytedance/byteir](https://github.com/bytedance/byteir) - ByteIR (1 day ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 days ago)
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows (3 days ago)
+- [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统) (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
-- [maghsk](https://github.com/maghsk)
+- [yudshj](https://github.com/yudshj)
 - [Z-kamili](https://github.com/Z-kamili)
 - [mmertpolat](https://github.com/mmertpolat)
 - [lijinnan123](https://github.com/lijinnan123)
