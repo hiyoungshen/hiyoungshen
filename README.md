@@ -34,7 +34,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) ([v3.2.0](https://github.com/MOMOYATW/bilibili_manga_downloader/releases/tag/v3.2.0), 3 months ago) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载）
 
 #### 🔨 My recent Pull Requests
 
@@ -54,18 +53,18 @@
 
 #### ⭐ Recent Stars
 
-- [llvm/torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem. (1 day ago)
-- [bytedance/byteir](https://github.com/bytedance/byteir) - ByteIR (1 day ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 days ago)
-- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows (3 days ago)
-- [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统) (6 days ago)
+- [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for &#34;Distributed Deep Learning in Open Collaborations&#34; (NeurIPS 2021) (1 day ago)
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. (2 days ago)
+- [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy (2 days ago)
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (3 days ago)
+- [42Shawn/PTQ4DM](https://github.com/42Shawn/PTQ4DM) - Implementation of Post-training Quantization on Diffusion Models (CVPR 2023) (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
+- [zhoujunlingla](https://github.com/zhoujunlingla)
 - [yudshj](https://github.com/yudshj)
 - [Z-kamili](https://github.com/Z-kamili)
 - [mmertpolat](https://github.com/mmertpolat)
 - [lijinnan123](https://github.com/lijinnan123)
-- [SMSQO](https://github.com/SMSQO)
 
 
