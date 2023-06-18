@@ -21,8 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 month ago)
-- [MOMOYATW/bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器（支持特典下载） (1 year ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -53,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
-- [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for &#34;Distributed Deep Learning in Open Collaborations&#34; (NeurIPS 2021) (1 day ago)
-- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning. (2 days ago)
-- [YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy (2 days ago)
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon (3 days ago)
-- [42Shawn/PTQ4DM](https://github.com/42Shawn/PTQ4DM) - Implementation of Post-training Quantization on Diffusion Models (CVPR 2023) (3 days ago)
+- [bytedance/byteps](https://github.com/bytedance/byteps) - A high performance and generic framework for distributed DNN training (1 day ago)
+- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. (1 day ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop (1 day ago)
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models! (4 days ago)
+- [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
