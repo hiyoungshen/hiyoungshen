@@ -21,15 +21,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (1 day ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
 
 #### 🌱 My latest projects
 
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) - 
 - [hiyoungshen/VRParkour](https://github.com/hiyoungshen/VRParkour) - 
 - [hiyoungshen/ApplicCompreExp](https://github.com/hiyoungshen/ApplicCompreExp) - ApplicationComprehensiveExperiment
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction
 - [hiyoungshen/LeetcodeOrPat](https://github.com/hiyoungshen/LeetcodeOrPat) - 
-- [hiyoungshen/ext2-on-Linux](https://github.com/hiyoungshen/ext2-on-Linux) - analysis about ext2 on Linux
 
 #### 🔭 Latest releases I've contributed to
 
@@ -52,18 +53,18 @@
 
 #### ⭐ Recent Stars
 
-- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (1 day ago)
-- [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc) (1 day ago)
-- [google/svcca](https://github.com/google/svcca) -  (2 days ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (4 days ago)
-- [openai/improved-diffusion](https://github.com/openai/improved-diffusion) - Release for Improved Denoising Diffusion Probabilistic Models (5 days ago)
+- [wecloudless/wecloud-cli-py](https://github.com/wecloudless/wecloud-cli-py) -  (2 days ago)
+- [doem97/openai-proxy](https://github.com/doem97/openai-proxy) - GPT-4 api distribution and management tool. 一分钟分发和管理 OpenAI GPT-4 API。 (5 days ago)
+- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023) (5 days ago)
+- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (1 week ago)
+- [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [aregtech](https://github.com/aregtech)
 - [zhoujunlingla](https://github.com/zhoujunlingla)
 - [yudshj](https://github.com/yudshj)
 - [Z-kamili](https://github.com/Z-kamili)
 - [mmertpolat](https://github.com/mmertpolat)
-- [lijinnan123](https://github.com/lijinnan123)
 
 
