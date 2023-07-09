@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (1 day ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (1 week ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
 
 #### 🌱 My latest projects
@@ -53,18 +53,18 @@
 
 #### ⭐ Recent Stars
 
-- [wecloudless/wecloud-cli-py](https://github.com/wecloudless/wecloud-cli-py) -  (2 days ago)
-- [doem97/openai-proxy](https://github.com/doem97/openai-proxy) - GPT-4 api distribution and management tool. 一分钟分发和管理 OpenAI GPT-4 API。 (5 days ago)
-- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023) (5 days ago)
-- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc) (1 week ago)
-- [sontek/homies](https://github.com/sontek/homies) - My configuration files (.screenrc, .vimrc, .weechat, .bashrc, .gitconfig, etc) (1 week ago)
+- [openmedlab/PathoDuet](https://github.com/openmedlab/PathoDuet) -  (1 day ago)
+- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: Localize and Segment Anything Model for 3D Medical Images (1 day ago)
+- [openmedlab/MIS-FM](https://github.com/openmedlab/MIS-FM) -  (1 day ago)
+- [openmedlab/PULSE-COVID-19](https://github.com/openmedlab/PULSE-COVID-19) -  (1 day ago)
+- [openmedlab/Endo-FM](https://github.com/openmedlab/Endo-FM) - [MICCAI&#39;23] Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
-- [aregtech](https://github.com/aregtech)
 - [zhoujunlingla](https://github.com/zhoujunlingla)
 - [yudshj](https://github.com/yudshj)
 - [Z-kamili](https://github.com/Z-kamili)
 - [mmertpolat](https://github.com/mmertpolat)
+- [lijinnan123](https://github.com/lijinnan123)
 
 
