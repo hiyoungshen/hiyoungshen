@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (1 week ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (2 weeks ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (2 months ago)
 
 #### 🌱 My latest projects
@@ -53,18 +53,18 @@
 
 #### ⭐ Recent Stars
 
-- [openmedlab/PathoDuet](https://github.com/openmedlab/PathoDuet) -  (1 day ago)
-- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: Localize and Segment Anything Model for 3D Medical Images (1 day ago)
-- [openmedlab/MIS-FM](https://github.com/openmedlab/MIS-FM) -  (1 day ago)
-- [openmedlab/PULSE-COVID-19](https://github.com/openmedlab/PULSE-COVID-19) -  (1 day ago)
-- [openmedlab/Endo-FM](https://github.com/openmedlab/Endo-FM) - [MICCAI&#39;23] Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train (1 day ago)
+- [stanford-oval/genie-sdk](https://github.com/stanford-oval/genie-sdk) - Genie skill development kit   (1 day ago)
+- [monster119120/conv_relu_plus_plus](https://github.com/monster119120/conv_relu_plus_plus) -  (6 days ago)
+- [openmedlab/PathoDuet](https://github.com/openmedlab/PathoDuet) -  (1 week ago)
+- [openmedlab/MedLSAM](https://github.com/openmedlab/MedLSAM) - MedLSAM: Localize and Segment Anything Model for 3D Medical Images (1 week ago)
+- [openmedlab/MIS-FM](https://github.com/openmedlab/MIS-FM) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [ShinnyHB](https://github.com/ShinnyHB)
 - [zhoujunlingla](https://github.com/zhoujunlingla)
 - [yudshj](https://github.com/yudshj)
 - [Z-kamili](https://github.com/Z-kamili)
 - [mmertpolat](https://github.com/mmertpolat)
-- [lijinnan123](https://github.com/lijinnan123)
 
 
