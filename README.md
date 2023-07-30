@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (6 days ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (3 weeks ago)
+- [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (1 week ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (4 weeks ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (3 months ago)
 
 #### 🌱 My latest projects
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular (2 days ago)
-- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models (2 days ago)
-- [csAugust/CheatGPT-SP](https://github.com/csAugust/CheatGPT-SP) - GPT on Chrome sidebar (2 days ago)
-- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac. (6 days ago)
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) -  (6 days ago)
+- [sbarman/webscript](https://github.com/sbarman/webscript) - A record and replay system for the browser (renamed Ringer) (2 days ago)
+- [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular (1 week ago)
+- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models (1 week ago)
+- [csAugust/CheatGPT-SP](https://github.com/csAugust/CheatGPT-SP) - GPT on Chrome sidebar (1 week ago)
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
