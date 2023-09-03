@@ -22,7 +22,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (1 month ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (1 month ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (2 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (4 months ago)
 
 #### 🌱 My latest projects
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. (3 weeks ago)
-- [ysymyth/ReAct](https://github.com/ysymyth/ReAct) - [ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models (3 weeks ago)
-- [OSU-NLP-Group/Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - Dataset, code and models for the paper &#34;Mind2Web: Towards a Generalist Agent for the Web&#34;. (3 weeks ago)
-- [haotiansun14/AdaPlanner](https://github.com/haotiansun14/AdaPlanner) -  AdaPlanner: Language Models for Decision Making via Adaptive Planning from Feedback (3 weeks ago)
-- [posgnu/rci-agent](https://github.com/posgnu/rci-agent) - A codebase for &#34;Language Models can Solve Computer Tasks&#34; (3 weeks ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 day ago)
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (1 day ago)
+- [XiaoMi/MiLM-6B](https://github.com/XiaoMi/MiLM-6B) -  (1 day ago)
+- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. (4 weeks ago)
+- [ysymyth/ReAct](https://github.com/ysymyth/ReAct) - [ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
