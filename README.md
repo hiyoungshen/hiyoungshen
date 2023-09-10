@@ -54,18 +54,18 @@
 
 #### ⭐ Recent Stars
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 day ago)
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (1 day ago)
-- [XiaoMi/MiLM-6B](https://github.com/XiaoMi/MiLM-6B) -  (1 day ago)
-- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. (4 weeks ago)
-- [ysymyth/ReAct](https://github.com/ysymyth/ReAct) - [ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models (4 weeks ago)
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (1 day ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 week ago)
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (1 week ago)
+- [XiaoMi/MiLM-6B](https://github.com/XiaoMi/MiLM-6B) -  (1 week ago)
+- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [LLLauM](https://github.com/LLLauM)
 - [ShinnyHB](https://github.com/ShinnyHB)
 - [zhoujunlingla](https://github.com/zhoujunlingla)
 - [yudshj](https://github.com/yudshj)
 - [Z-kamili](https://github.com/Z-kamili)
-- [mmertpolat](https://github.com/mmertpolat)
 
 
