@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (2 weeks ago)
-- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (2 weeks ago)
+- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (3 weeks ago)
+- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (3 weeks ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (2 months ago)
 - [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (3 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (5 months ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey) -  (1 week ago)
-- [yudshj/oj_gpt_helper](https://github.com/yudshj/oj_gpt_helper) -  (3 weeks ago)
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (3 weeks ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (4 weeks ago)
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (4 weeks ago)
+- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention (3 days ago)
+- [Paitesanshi/LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey) -  (2 weeks ago)
+- [yudshj/oj_gpt_helper](https://github.com/yudshj/oj_gpt_helper) -  (4 weeks ago)
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI. (4 weeks ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
