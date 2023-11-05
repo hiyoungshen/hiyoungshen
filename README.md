@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp (1 day ago)
-- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware (1 day ago)
-- [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training &amp; inference (1 day ago)
-- [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models&#39; complex reasoning ability with chain-of-thought prompting (1 day ago)
-- [hendrycks/test](https://github.com/hendrycks/test) - Measuring Massive Multitask Language Understanding | ICLR 2021 (1 day ago)
+- [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa) - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads (1 day ago)
+- [JanKalo/KAMEL](https://github.com/JanKalo/KAMEL) -  (3 days ago)
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp (1 week ago)
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware (1 week ago)
+- [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training &amp; inference (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
