@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts
 
-- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (10 months ago)
+- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (11 months ago)
 - [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (11 months ago)
 - [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (11 months ago)
 - [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (11 months ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20&#43; translate services. (3 days ago)
-- [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology). (3 days ago)
-- [Kenshin/simpread-chatgpt-helper](https://github.com/Kenshin/simpread-chatgpt-helper) - ChatGPT 助手 with 简悦 (3 days ago)
-- [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展 (3 days ago)
-- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford&#39;s Alpaca models, and generate the data. (1 week ago)
+- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (6 days ago)
+- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20&#43; translate services. (1 week ago)
+- [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology). (1 week ago)
+- [Kenshin/simpread-chatgpt-helper](https://github.com/Kenshin/simpread-chatgpt-helper) - ChatGPT 助手 with 简悦 (1 week ago)
+- [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
