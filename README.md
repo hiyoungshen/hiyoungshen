@@ -24,7 +24,7 @@
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (2 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (2 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (4 months ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (4 months ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (5 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (7 months ago)
 
 #### 🌱 My latest projects
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (6 days ago)
-- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20&#43; translate services. (1 week ago)
-- [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology). (1 week ago)
-- [Kenshin/simpread-chatgpt-helper](https://github.com/Kenshin/simpread-chatgpt-helper) - ChatGPT 助手 with 简悦 (1 week ago)
-- [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展 (1 week ago)
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale (4 days ago)
+- [kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare) - 中国如何下载huggingface 模型并共享链接 (6 days ago)
+- [zjunlp/LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents. (1 week ago)
+- [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS (1 week ago)
+- [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20&#43; translate services. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
