@@ -24,7 +24,7 @@
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (3 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (3 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (5 months ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (5 months ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (6 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (8 months ago)
 
 #### 🌱 My latest projects
@@ -56,18 +56,18 @@
 
 #### ⭐ Recent Stars
 
-- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (3 days ago)
-- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (1 week ago)
-- [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -  (1 week ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (2 weeks ago)
-- [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA (2 weeks ago)
+- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (1 week ago)
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (2 weeks ago)
+- [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -  (2 weeks ago)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (3 weeks ago)
+- [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [cherryhanminmin](https://github.com/cherryhanminmin)
 - [djmaroof](https://github.com/djmaroof)
 - [TomQuartz](https://github.com/TomQuartz)
 - [LLLauM](https://github.com/LLLauM)
 - [ShinnyHB](https://github.com/ShinnyHB)
-- [yudshj](https://github.com/yudshj)
 
 
