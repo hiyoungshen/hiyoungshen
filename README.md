@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (1 week ago)
-- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (2 weeks ago)
-- [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -  (2 weeks ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (3 weeks ago)
-- [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA (3 weeks ago)
+- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (2 weeks ago)
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (3 weeks ago)
+- [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -  (3 weeks ago)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (1 month ago)
+- [belladoreai/llama-tokenizer-js](https://github.com/belladoreai/llama-tokenizer-js) - JS tokenizer for LLaMA (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
