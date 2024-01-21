@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (3 weeks ago)
+- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (1 month ago)
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (1 month ago)
 - [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -  (1 month ago)
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) (1 month ago)
