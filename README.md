@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (4 days ago)
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (6 days ago)
+- [rodyager/RWTS-PDFwriter](https://github.com/rodyager/RWTS-PDFwriter) - An OSX print to pdf-file printer driver (1 week ago)
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 week ago)
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (1 week ago)
 - [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (1 month ago)
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (1 month ago)
-- [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
