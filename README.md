@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (4 months ago)
-- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (4 months ago)
+- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (5 months ago)
+- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (5 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (6 months ago)
 - [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (7 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (9 months ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [rodyager/RWTS-PDFwriter](https://github.com/rodyager/RWTS-PDFwriter) - An OSX print to pdf-file printer driver (1 week ago)
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 week ago)
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (1 week ago)
-- [soskek/bookcorpus](https://github.com/soskek/bookcorpus) - Crawl BookCorpus (1 month ago)
-- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 (1 month ago)
+- [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega (4 days ago)
+- [thezzisu/ocproxy-oci](https://github.com/thezzisu/ocproxy-oci) - OCI Image for https://github.com/cernekee/ocproxy (4 days ago)
+- [rodyager/RWTS-PDFwriter](https://github.com/rodyager/RWTS-PDFwriter) - An OSX print to pdf-file printer driver (2 weeks ago)
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (2 weeks ago)
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
