@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega (1 week ago)
-- [thezzisu/ocproxy-oci](https://github.com/thezzisu/ocproxy-oci) - OCI Image for https://github.com/cernekee/ocproxy (1 week ago)
-- [rodyager/RWTS-PDFwriter](https://github.com/rodyager/RWTS-PDFwriter) - An OSX print to pdf-file printer driver (3 weeks ago)
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (3 weeks ago)
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (3 weeks ago)
+- [OpenMatch/Augmentation-Adapted-Retriever](https://github.com/OpenMatch/Augmentation-Adapted-Retriever) - [ACL 2023] This is the code repo for our ACL&#39;23 paper &#34;Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In&#34;. (2 days ago)
+- [facebookresearch/FiD](https://github.com/facebookresearch/FiD) - Fusion-in-Decoder (3 days ago)
+- [epfml/landmark-attention](https://github.com/epfml/landmark-attention) - Landmark Attention: Random-Access Infinite Context Length for Transformers (5 days ago)
+- [princeton-nlp/AutoCompressors](https://github.com/princeton-nlp/AutoCompressors) - [EMNLP 2023] Adapting Language Models to Compress Long Contexts (6 days ago)
+- [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
