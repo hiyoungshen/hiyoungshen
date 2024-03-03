@@ -24,7 +24,7 @@
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (5 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (5 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (7 months ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (7 months ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (8 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (10 months ago)
 
 #### 🌱 My latest projects
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [OpenMatch/Augmentation-Adapted-Retriever](https://github.com/OpenMatch/Augmentation-Adapted-Retriever) - [ACL 2023] This is the code repo for our ACL&#39;23 paper &#34;Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In&#34;. (2 days ago)
-- [facebookresearch/FiD](https://github.com/facebookresearch/FiD) - Fusion-in-Decoder (3 days ago)
-- [epfml/landmark-attention](https://github.com/epfml/landmark-attention) - Landmark Attention: Random-Access Infinite Context Length for Transformers (5 days ago)
-- [princeton-nlp/AutoCompressors](https://github.com/princeton-nlp/AutoCompressors) - [EMNLP 2023] Adapting Language Models to Compress Long Contexts (6 days ago)
-- [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega (2 weeks ago)
+- [microsoft/ANCE](https://github.com/microsoft/ANCE) - A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks (3 days ago)
+- [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts. (3 days ago)
+- [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch (4 days ago)
+- [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answering systems. (4 days ago)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
