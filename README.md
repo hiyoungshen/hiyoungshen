@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (5 months ago)
-- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (5 months ago)
+- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (6 months ago)
+- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (6 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (7 months ago)
 - [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (8 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (10 months ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/ANCE](https://github.com/microsoft/ANCE) - A novel embedding training algorithm leveraging ANN search and achieved SOTA retrieval on Trec DL 2019 and OpenQA benchmarks (3 days ago)
-- [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource) - Toolkit for creating, sharing and using natural language prompts. (3 days ago)
-- [NVIDIA/apex](https://github.com/NVIDIA/apex) - A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch (4 days ago)
-- [google-research-datasets/natural-questions](https://github.com/google-research-datasets/natural-questions) - Natural Questions (NQ) contains real user questions issued to Google search, and answers found from Wikipedia by annotators. NQ is designed for the training and evaluation of automatic question answering systems. (4 days ago)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (4 days ago)
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 day ago)
+- [thu-coai/KdConv](https://github.com/thu-coai/KdConv) - KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation (2 days ago)
+- [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client (3 days ago)
+- [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client (3 days ago)
+- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
