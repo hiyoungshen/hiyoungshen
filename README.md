@@ -23,9 +23,9 @@
 
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (6 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (6 months ago)
-- [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (7 months ago)
+- [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (8 months ago)
 - [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (8 months ago)
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (10 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 day ago)
-- [thu-coai/KdConv](https://github.com/thu-coai/KdConv) - KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation (2 days ago)
-- [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client (3 days ago)
-- [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client (3 days ago)
-- [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt) - GPT Meet Zotero. (4 days ago)
+- [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client, with multi-account support. (4 days ago)
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux (4 days ago)
+- [lucasresck/gnome-shell-extension-alt-tab-scroll-workaround](https://github.com/lucasresck/gnome-shell-extension-alt-tab-scroll-workaround) - Quick fix to the bug where scrolling in one application is repeated in another when switching between them using Alt&#43;Tab (e.g., VS Code and Chrome) (5 days ago)
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 (6 days ago)
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
