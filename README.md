@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client, with multi-account support. (4 days ago)
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux (4 days ago)
-- [lucasresck/gnome-shell-extension-alt-tab-scroll-workaround](https://github.com/lucasresck/gnome-shell-extension-alt-tab-scroll-workaround) - Quick fix to the bug where scrolling in one application is repeated in another when switching between them using Alt&#43;Tab (e.g., VS Code and Chrome) (5 days ago)
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 (6 days ago)
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (1 week ago)
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store (2 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 days ago)
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100&#43; integration / Enterprise automation tool / Zapier Alternative (3 days ago)
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (3 days ago)
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
