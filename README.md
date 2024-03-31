@@ -24,7 +24,7 @@
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (6 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (6 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (8 months ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (8 months ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (9 months ago)
 - [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (11 months ago)
 
 #### 🌱 My latest projects
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store (2 days ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 days ago)
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100&#43; integration / Enterprise automation tool / Zapier Alternative (3 days ago)
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (3 days ago)
-- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions (3 days ago)
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store (1 week ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (1 week ago)
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100&#43; integration / Enterprise automation tool / Zapier Alternative (1 week ago)
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (1 week ago)
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
