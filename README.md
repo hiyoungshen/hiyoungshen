@@ -21,11 +21,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (6 months ago)
-- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (6 months ago)
-- [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (8 months ago)
+- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (7 months ago)
+- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (7 months ago)
+- [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (9 months ago)
 - [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (9 months ago)
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (11 months ago)
+- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [micky-2022/Problem-Set-on-Computational-Theory](https://github.com/micky-2022/Problem-Set-on-Computational-Theory) -  (2 days ago)
-- [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training (2 days ago)
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps (5 days ago)
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100&#43; LLMs (1 week ago)
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store (2 weeks ago)
+- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. (1 day ago)
+- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.  (1 day ago)
+- [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  (1 day ago)
+- [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training (1 week ago)
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
