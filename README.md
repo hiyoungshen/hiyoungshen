@@ -24,8 +24,7 @@
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (7 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (7 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (9 months ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (9 months ago)
-- [hiyoungshen/hiyoungshen.github.io](https://github.com/hiyoungshen/hiyoungshen.github.io) - My personal introduction (1 year ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -56,11 +55,11 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. (1 week ago)
-- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.  (1 week ago)
-- [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  (1 week ago)
-- [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training (2 weeks ago)
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps (2 weeks ago)
+- [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction. (2 weeks ago)
+- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.  (2 weeks ago)
+- [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.  (2 weeks ago)
+- [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training (3 weeks ago)
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
