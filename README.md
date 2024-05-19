@@ -55,18 +55,18 @@
 
 #### ⭐ Recent Stars
 
-- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (3 days ago)
-- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (1 week ago)
-- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (1 week ago)
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed RPA. (1 week ago)
-- [suliveevil/My-Siri-Shortcuts](https://github.com/suliveevil/My-Siri-Shortcuts) - Siri Shortcut 快捷指令 捷径 Workflow (1 week ago)
+- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac (1 day ago)
+- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (1 week ago)
+- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (2 weeks ago)
+- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (2 weeks ago)
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed RPA. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [wang-hanmo](https://github.com/wang-hanmo)
 - [cherryhanminmin](https://github.com/cherryhanminmin)
 - [djmaroof](https://github.com/djmaroof)
 - [TomQuartz](https://github.com/TomQuartz)
 - [LLLauM](https://github.com/LLLauM)
-- [ShinnyHB](https://github.com/ShinnyHB)
 
 
