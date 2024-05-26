@@ -24,7 +24,7 @@
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (8 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (8 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (10 months ago)
-- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (10 months ago)
+- [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -55,11 +55,11 @@
 
 #### ⭐ Recent Stars
 
-- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac (1 day ago)
-- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (1 week ago)
-- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (2 weeks ago)
-- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (2 weeks ago)
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed RPA. (2 weeks ago)
+- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (1 week ago)
+- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac (1 week ago)
+- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (2 weeks ago)
+- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (3 weeks ago)
+- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
