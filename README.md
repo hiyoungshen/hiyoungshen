@@ -55,11 +55,11 @@
 
 #### ⭐ Recent Stars
 
-- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (1 week ago)
-- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac (1 week ago)
-- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (2 weeks ago)
-- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (3 weeks ago)
-- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (3 weeks ago)
+- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (2 weeks ago)
+- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac (2 weeks ago)
+- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (3 weeks ago)
+- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (1 month ago)
+- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
