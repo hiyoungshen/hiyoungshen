@@ -21,8 +21,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (8 months ago)
-- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (8 months ago)
+- [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (9 months ago)
+- [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (9 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (10 months ago)
 - [hiyoungshen/openai-proxy](https://github.com/hiyoungshen/openai-proxy) -  (11 months ago)
 
@@ -55,11 +55,11 @@
 
 #### ⭐ Recent Stars
 
-- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (2 weeks ago)
-- [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) - A PowerPoint add-in allowing you to insert LaTeX equations into PowerPoint presentations on Windows and Mac (2 weeks ago)
-- [xybp888/iOS-Header](https://github.com/xybp888/iOS-Header) - iOS Header  (3 weeks ago)
-- [extratone/i](https://github.com/extratone/i) - All of my iOS/iPhone-related documentation, files, media, etc. (1 month ago)
-- [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator (1 month ago)
+- [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win) (1 day ago)
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows (1 day ago)
+- [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol. (2 days ago)
+- [nextisme/Plants.vs.Zombies-hybrid](https://github.com/nextisme/Plants.vs.Zombies-hybrid) - 这里存放 潜艇伟伟迷 制作的植物大战僵尸杂交版安装程序，方便各位的下载 (3 days ago)
+- [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
