@@ -21,7 +21,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hiyoungshen/ShortcutsBench](https://github.com/hiyoungshen/ShortcutsBench) - 适用于苹果平台的目前已知最大的快捷指令开源数据集！ (6 days ago)
+- [hiyoungshen/ShortcutsBench](https://github.com/hiyoungshen/ShortcutsBench) - 适用于苹果平台的目前已知最大的快捷指令开源数据集！ (1 week ago)
 - [hiyoungshen/one-api-shy](https://github.com/hiyoungshen/one-api-shy) -  (9 months ago)
 - [hiyoungshen/get-info-from-openjudge](https://github.com/hiyoungshen/get-info-from-openjudge) -  (9 months ago)
 - [hiyoungshen/pytorch_resnet_cifar10](https://github.com/hiyoungshen/pytorch_resnet_cifar10) -  (11 months ago)
@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts
 
-- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (1 year ago)
+- [WWW21-Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://hiyoungshen.github.io/2022/12/25/www21-characterizing-impacts-of-heterogeneity-in-federated-learning-upon-large-scale-smartphone-data/) (2 years ago)
 - [MobiSys22-FedBalancer: Data and Pace Control for Efficient Federated Learning on Heterogeneous Clients](https://hiyoungshen.github.io/2022/12/24/mobisys-fedbalancer-data-and-pace-control-for-efficient-federated-learning-on-heterogeneous-clients/) (2 years ago)
 - [arXiv22-FEDNAS: FEDERATED DEEP LEARNING VIA NEURAL ARCHITECTURE SEARCH](https://hiyoungshen.github.io/2022/12/24/arxiv22-fednas-federated-deep-learning-via-neural-architecture-search/) (2 years ago)
 - [SenSys21-FedMask: Joint Computation and Communication-Efficient Personalized Federated Learning via Heterogeneous Masking](https://hiyoungshen.github.io/2022/12/24/sensys21-fedmask-joint-computation-and-communication-efficient-personalized-federated-learning-via-heterogeneous-masking/) (2 years ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Recent Stars
 
-- [hiyoungshen/ShortcutsBench](https://github.com/hiyoungshen/ShortcutsBench) - 适用于苹果平台的目前已知最大的快捷指令开源数据集！ (5 days ago)
-- [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win) (1 week ago)
-- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows (1 week ago)
-- [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol. (1 week ago)
-- [nextisme/Plants.vs.Zombies-hybrid](https://github.com/nextisme/Plants.vs.Zombies-hybrid) - 这里存放 潜艇伟伟迷 制作的植物大战僵尸杂交版安装程序，方便各位的下载 (1 week ago)
+- [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (2 days ago)
+- [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence (2 days ago)
+- [morgen52/measurement_of_wasm_container](https://github.com/morgen52/measurement_of_wasm_container) -  (4 days ago)
+- [hiyoungshen/ShortcutsBench](https://github.com/hiyoungshen/ShortcutsBench) - 适用于苹果平台的目前已知最大的快捷指令开源数据集！ (1 week ago)
+- [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win) (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
