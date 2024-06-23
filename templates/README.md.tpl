@@ -10,39 +10,13 @@
 - 🌱 I had fun researching Data Mining, Machine Learning, Software Engineering, Distributed System, etc.
 
 ### Correspondence
-- 📫 Email: [hiyoungshen@gmail.com](mailto:hiyoungshen@gmail.com)
+- 📫 Email: [hyshen@stu.pku.edu.cn](mailto:hyshen@stu.pku.edu.cn)
 
 ### Others
 - 🖋 My introduction at [here](https://intro.bestshy.top).
-- 🖋 I blog at [here](https://blog.bestshy.top) sometimes.
 - 🤔 I'm a fantast and I like to touch fish in my space time.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiyoungshen&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📜 My recent blog posts
-{{range rss "https://hiyoungshen.github.io/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eachsheep&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 #### 📓 Gists I wrote
 {{range gists 5}}
@@ -53,10 +27,3 @@
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
-
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
-
