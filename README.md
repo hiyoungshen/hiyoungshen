@@ -23,8 +23,8 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (2 days ago)
-- [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence (2 days ago)
-- [morgen52/measurement_of_wasm_container](https://github.com/morgen52/measurement_of_wasm_container) -  (4 days ago)
-- [EachSheep/ShortcutsBench](https://github.com/EachSheep/ShortcutsBench) - The largest known open-source dataset of shortcuts for the Apple platform! (1 week ago)
-- [evsar3/sshfs-win-manager](https://github.com/evsar3/sshfs-win-manager) - A GUI for SSHFS-Win (https://github.com/billziss-gh/sshfs-win) (2 weeks ago)
+- [web-arena-x/webarena](https://github.com/web-arena-x/webarena) - Code repo for &#34;WebArena: A Realistic Web Environment for Building Autonomous Agents&#34; (1 day ago)
+- [VisualWebBench/VisualWebBench](https://github.com/VisualWebBench/VisualWebBench) - Evaluation framework for paper &#34;VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?&#34; (1 day ago)
+- [web-arena-x/visualwebarena](https://github.com/web-arena-x/visualwebarena) - VisualWebArena is a benchmark for multimodal agents. (1 day ago)
+- [EmergenceAI/Agent-E](https://github.com/EmergenceAI/Agent-E) - Agent driven automation starting with the web. Discord: https://discord.gg/wgNfmFuqJF (1 day ago)
+- [OSU-NLP-Group/Mind2Web](https://github.com/OSU-NLP-Group/Mind2Web) - [NeurIPS&#39;23 Spotlight] &#34;Mind2Web: Towards a Generalist Agent for the Web&#34; (1 day ago)
